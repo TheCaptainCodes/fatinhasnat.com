@@ -1,10 +1,10 @@
 {
-  "name": "backendsanityportfolio",
+  "name": "fatinhasnat.com",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Mandeep Singhmar <msingh8328@gmail.com>",
+  "author": "Fatin Hasnat",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
@@ -27,9 +27,5 @@
     "react-dom": "^17.0",
     "styled-components": "^5.2.0"
   },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:adrianhajdin/project_professional_portfolio.git"
-  }
+  "devDependencies": {}
 }
