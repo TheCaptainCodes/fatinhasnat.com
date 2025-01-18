@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import { SpeedInsights } from "@vercel/speed-insights/react"
+import SpeedInsights from '@vercel/speed-insights';
 
 import App from './App';
 import './index.css';
